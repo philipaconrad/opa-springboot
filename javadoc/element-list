@@ -1,0 +1,4 @@
+io.github.open_policy_agent.opa.springboot
+io.github.open_policy_agent.opa.springboot.authorization
+io.github.open_policy_agent.opa.springboot.autoconfigure
+io.github.open_policy_agent.opa.springboot.input

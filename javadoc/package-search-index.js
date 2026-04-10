@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.github.open_policy_agent.opa.springboot"},{"l":"io.github.open_policy_agent.opa.springboot.authorization"},{"l":"io.github.open_policy_agent.opa.springboot.autoconfigure"},{"l":"io.github.open_policy_agent.opa.springboot.input"}];updateSearchResults();
